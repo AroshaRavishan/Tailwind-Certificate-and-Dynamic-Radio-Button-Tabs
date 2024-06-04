@@ -34,3 +34,6 @@ This Vue component implements a set of radio button tabs that dynamically update
 
 ![Certificate Preview](https://github.com/AroshaRavishan/Tailwind-Certificate-and-Dynamic-Radio-Button-Tabs/blob/main/Tailwind%20Certificate.png)
 
+### Sample Image Tabs
+
+![Sample Image Tabs](https://github.com/AroshaRavishan/Tailwind-Certificate-and-Dynamic-Radio-Button-Tabs/blob/main/Sample%20image%20Tabs.png)
