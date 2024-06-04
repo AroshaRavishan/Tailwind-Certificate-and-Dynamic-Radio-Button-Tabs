@@ -29,3 +29,8 @@ This Vue component implements a set of radio button tabs that dynamically update
 
 ### Methods
 - **`updateImage`**: Placeholder function to handle updates when the tab changes.
+
+### Certificate Preview
+
+![Certificate Preview](https://github.com/AroshaRavishan/Tailwind-Certificate-and-Dynamic-Radio-Button-Tabs/blob/main/Tailwind%20Certificate.png)
+
